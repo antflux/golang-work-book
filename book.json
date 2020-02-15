@@ -1,0 +1,10 @@
+{
+    "title" : "Golang工作笔记",
+    "theme-default": {
+        "showLevel": true
+    },
+    "plugins": [
+        "toggle-chapters",
+        "code"
+    ]
+}
